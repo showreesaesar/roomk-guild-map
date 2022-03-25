@@ -27,7 +27,7 @@
          "name":"ground",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":70,
          "x":0,
          "y":0
@@ -39,7 +39,7 @@
          "name":"ground2",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":70,
          "x":0,
          "y":0
@@ -51,7 +51,7 @@
          "name":"floor",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":70,
          "x":0,
          "y":0
@@ -63,7 +63,7 @@
          "name":"floor2",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":70,
          "x":0,
          "y":0
