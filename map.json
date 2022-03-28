@@ -102,16 +102,6 @@
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"mthatake"
-                        }, 
-                        {
-                         "name":"jitsiTrigger",
-                         "type":"string",
-                         "value":"onaction"
-                        }, 
-                        {
-                         "name":"jitsiTriggerMessage",
-                         "type":"string",
-                         "value":"Press on SPACE to enter in jitsi meet room"
                         }],
                  "type":"tilelayer",
                  "visible":true,
